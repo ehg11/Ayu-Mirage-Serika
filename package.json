@@ -1,0 +1,21 @@
+{
+  "name": "ayu-mirage-serika",
+  "displayName": "Ayu Mirage Serika",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ayu Mirage Serika",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ayu Mirage Serika-color-theme.json"
+      }
+    ]
+  }
+}
