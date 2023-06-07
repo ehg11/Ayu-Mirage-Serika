@@ -3,9 +3,16 @@
   "displayName": "Ayu Mirage Serika",
   "description": "",
   "version": "0.0.1",
+  "publisher": "ehg11",
+  "author": "ehg11",
   "engines": {
     "vscode": "^1.78.0"
   },
+  "license": "MIT",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/ehg11/Ayu-Mirage-Serika.git"
+	},
   "categories": [
     "Themes"
   ],
